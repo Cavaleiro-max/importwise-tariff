@@ -1,0 +1,30 @@
+[
+  {
+    "hs_code": "00000000",
+    "description": "Sémen de borino",
+    "customs_duty_percent": 2.0,
+    "vat_percent": 0.0,
+    "excise_percent": 0.0,
+    "keywords": [
+      "sémen",
+      "borino"
+    ],
+    "category": "Geral",
+    "source_file": "Pauta_2022.xlsx :: Table 5",
+    "last_updated_by_agt": "2025-06-01"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Tractores agrícolas",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 0.0,
+    "excise_percent": 0.0,
+    "keywords": [
+      "agrícolas",
+      "tractores"
+    ],
+    "category": "Geral",
+    "source_file": "Pauta_2022.xlsx :: Table 5",
+    "last_updated_by_agt": "2025-06-01"
+  }
+]
