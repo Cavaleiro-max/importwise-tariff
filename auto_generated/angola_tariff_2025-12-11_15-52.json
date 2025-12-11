@@ -1,0 +1,362 @@
+[
+  {
+    "hs_code": "00000000",
+    "description": "Eliminação da franquia para isenção das mercadorias expedidas",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "a) Eliminação da franquia para isenção das mercadorias expedidas;"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Origem da Mercadoria",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Origem da Mercadoria | Direitos Aduaneiros | Emolumentos Gerais Aduaneiros"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Sectores Petrolífero e Mineiro",
+    "customs_duty_percent": 0.0001,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Sectores Petrolífero e Mineiro | - | 0.0001"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Mercadoria Nacionalizada",
+    "customs_duty_percent": 0.2,
+    "vat_percent": 14.0,
+    "excise_percent": 0.02,
+    "source_line": "Mercadoria Nacionalizada | 0.2 | 0.02"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Bens Alimentares e Medicamentos Nacionalizados",
+    "customs_duty_percent": 0.7,
+    "vat_percent": 14.0,
+    "excise_percent": 0.02,
+    "source_line": "Bens Alimentares e Medicamentos Nacionalizados | 0.7 | 0.02"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Leite líquido",
+    "customs_duty_percent": 30.0,
+    "vat_percent": 14.0,
+    "excise_percent": 40.0,
+    "source_line": "Leite líquido | 30 | 40"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Leite em pó",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Leite em pó | Lirre | 10"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Feijão comum e fradinho",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 14.0,
+    "excise_percent": 15.0,
+    "source_line": "Feijão comum e fradinho | 10 | 15"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Óleo de soja, palma e girassol",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Óleo de soja, palma e girassol | Lirre | 40"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Peixes secos",
+    "customs_duty_percent": 30.0,
+    "vat_percent": 14.0,
+    "excise_percent": 20.0,
+    "source_line": "Peixes secos | 30 | 20"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Sumos naturais",
+    "customs_duty_percent": 60.0,
+    "vat_percent": 14.0,
+    "excise_percent": 50.0,
+    "source_line": "Sumos naturais | 60 | 50"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Água gaseificada",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 20.0,
+    "source_line": "Água gaseificada | 70 | 20"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Cerreja sem álcool",
+    "customs_duty_percent": 60.0,
+    "vat_percent": 14.0,
+    "excise_percent": 30.0,
+    "source_line": "Cerreja sem álcool | 60 | 30"
+  },
+  {
+    "hs_code": "11071000",
+    "description": "Cerreja de malte",
+    "customs_duty_percent": 60.0,
+    "vat_percent": 14.0,
+    "excise_percent": 55.0,
+    "source_line": "Cerreja de malte | 60 | 55"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Bebidas espirituosas",
+    "customs_duty_percent": 60.0,
+    "vat_percent": 14.0,
+    "excise_percent": 55.0,
+    "source_line": "Bebidas espirituosas | 60 | 55"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Álcool etílico desnaturado e não desnaturado",
+    "customs_duty_percent": 60.0,
+    "vat_percent": 14.0,
+    "excise_percent": 55.0,
+    "source_line": "Álcool etílico desnaturado e não desnaturado | 60 | 55"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Sémen de borino",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Taxa Desagravada | Sémen de borino | Pauta V2017 | Pauta V2022"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Tractores agrícolas",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Tractores agrícolas | 10 | Livre"
+  },
+  {
+    "hs_code": "25232100",
+    "description": "Cimento Clinkers",
+    "customs_duty_percent": 5.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Produtos Minerais | Cimento Clinkers | Pauta V2017 | Pauta V2022"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Cimento Portland branco",
+    "customs_duty_percent": 2.0,
+    "vat_percent": 14.0,
+    "excise_percent": 30.0,
+    "source_line": "Cimento Portland branco | 2 | 30"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Vidro razado ou laminado",
+    "customs_duty_percent": 30.0,
+    "vat_percent": 14.0,
+    "excise_percent": 40.0,
+    "source_line": "Vidro razado ou laminado | 30 | 40"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Papel ou Cartão | Kraft, não rerestidos | Lirre",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Papel ou Cartão | Kraft, não rerestidos | Lirre | 50"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Outros papéis",
+    "customs_duty_percent": 50.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Outros papéis | Lirre | 50"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Fios de algodão",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Materiais Têxteis | Fios de algodão | Lirre | 2"
+  },
+  {
+    "hs_code": "52081100",
+    "description": "Tecidos de algodão",
+    "customs_duty_percent": 2.0,
+    "vat_percent": 14.0,
+    "excise_percent": 50.0,
+    "source_line": "Tecidos de algodão | 2 | 50"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Linho bruto | Lirre",
+    "customs_duty_percent": 2.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Linho bruto | Lirre | 2"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Veludos e pelúcias de malha",
+    "customs_duty_percent": 30.0,
+    "vat_percent": 14.0,
+    "excise_percent": 2.0,
+    "source_line": "Veludos e pelúcias de malha | 2 | 30"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Tecidos de malha",
+    "customs_duty_percent": 2.0,
+    "vat_percent": 14.0,
+    "excise_percent": 30.0,
+    "source_line": "Tecidos de malha | 2 | 30"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Vestuário de malha",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 14.0,
+    "excise_percent": 40.0,
+    "source_line": "Vestuário de malha | 10 | 40"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Outros Vestuários",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 14.0,
+    "excise_percent": 40.0,
+    "source_line": "Outros Vestuários | 10 | 40"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Roupas de cama",
+    "customs_duty_percent": 50.0,
+    "vat_percent": 14.0,
+    "excise_percent": 55.0,
+    "source_line": "Roupas de cama | 50 | 55"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Equipamentos Rodoviários | Veículos automóreis | Pauta V2017 | Pauta V2022",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Equipamentos Rodoviários | Veículos automóreis | Pauta V2017 | Pauta V2022"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Veículos híbridos",
+    "customs_duty_percent": 2.0,
+    "vat_percent": 14.0,
+    "excise_percent": 10.0,
+    "source_line": "Veículos híbridos | 2 | 10"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Veículos eléctricos",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Veículos eléctricos | Livre"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Motores usados",
+    "customs_duty_percent": 50.0,
+    "vat_percent": 14.0,
+    "excise_percent": 20.0,
+    "source_line": "Motores usados | 50 | 20"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Peças de reículos automóreis",
+    "customs_duty_percent": 5.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Peças de reículos automóreis | Lirre | 5"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Baterias e acumuladores",
+    "customs_duty_percent": 2.0,
+    "vat_percent": 14.0,
+    "excise_percent": 50.0,
+    "source_line": "Baterias e acumuladores | 2 | 50"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Sapatos e tênis",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Bens Diversos | Sapatos e ténis | Pauta V2017 | Pauta V2022"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Flores artificiais",
+    "customs_duty_percent": 20.0,
+    "vat_percent": 14.0,
+    "excise_percent": 10.0,
+    "source_line": "Flores artificiais | 20 | 10"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Obras de cabelo",
+    "customs_duty_percent": 50.0,
+    "vat_percent": 14.0,
+    "excise_percent": 10.0,
+    "source_line": "Obras de cabelo | 50 | 10"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Obras de cerâmica",
+    "customs_duty_percent": 30.0,
+    "vat_percent": 14.0,
+    "excise_percent": 10.0,
+    "source_line": "Obras de cerâmica | 30 | 10"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Microfone e Altifalante",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 14.0,
+    "excise_percent": 2.0,
+    "source_line": "Microfone e Altifalante | 10 | 2"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Camaras fotográficas",
+    "customs_duty_percent": 10.0,
+    "vat_percent": 14.0,
+    "excise_percent": 5.0,
+    "source_line": "Camaras fotográficas | 10 | 5"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Candeeiros e lustres",
+    "customs_duty_percent": 20.0,
+    "vat_percent": 14.0,
+    "excise_percent": 10.0,
+    "source_line": "Candeeiros e lustres | 20 | 10"
+  },
+  {
+    "hs_code": "00000000",
+    "description": "Pauta Aduaneira",
+    "customs_duty_percent": 0.0,
+    "vat_percent": 14.0,
+    "excise_percent": 0.0,
+    "source_line": "Pauta Aduaneira"
+  }
+]
